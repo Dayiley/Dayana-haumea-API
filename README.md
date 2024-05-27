@@ -1,2 +1,1 @@
-# Dayana-haumea-API
-API project for CTD intro to programming class
+https://api.artic.edu/docs/#quick-start
