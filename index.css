@@ -1,0 +1,22 @@
+
+
+.container{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    flex-direction: column;
+    background-image:url('fondo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#artContainer {
+    width: 60%;
+    margin: 0 auto;
+  } 
+  #artContainer img {
+    display: block;
+    margin: 0 auto; 
+    max-width: 100%;
+    height: auto;
+  }
